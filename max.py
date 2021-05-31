@@ -21,10 +21,4 @@ arr = [10, 324, 45, 90, 9808]
 n = len(arr)
 Ans = largest(arr,n)
 print ("Largest in given array is",Ans)
-#
-#1234
-<<<<<<< HEAD
-#####
-=======
->>>>>>> 66186d42abf881d308a868acf69a998f99e4c059
-#anmn
+#changes
